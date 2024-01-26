@@ -13,3 +13,5 @@ Intel(R) Wi-Fi 6 AX201 160MHz
 
 I cannot boot this thing, i have tried to compile it in many ways, but PLUG and 8744 always get in the way.
 I have included SysReport with SSDTs that OpenCore Debug managed to catch.
+
+(OC folder only open on github)
